@@ -1,0 +1,31 @@
+review,sentiment
+"I love this product, it is amazing",positive
+"This product is excellent and useful",positive
+"Very happy with my purchase",positive
+"The quality is really good",positive
+"I am satisfied with this service",positive
+"Absolutely fantastic experience",positive
+"I really enjoyed this movie",positive
+"The staff was very helpful",positive
+"This is a wonderful product",positive
+"Highly recommended",positive
+"I hate this product",negative
+"This product is terrible",negative
+"Very bad experience",negative
+"I am disappointed with the service",negative
+"The quality is horrible",negative
+"Worst product I have ever bought",negative
+"I did not like this movie",negative
+"The staff was rude",negative
+"Very poor service",negative
+"I regret buying this product",negative
+"The product arrived yesterday",neutral
+"The package contains two items",neutral
+"I received the product today",neutral
+"The movie is two hours long",neutral
+"The service starts at 10 AM",neutral
+"The product costs 500 rupees",neutral
+"I ordered the product online",neutral
+"The meeting is scheduled tomorrow",neutral
+"The phone has a 6 inch display",neutral
+"The delivery took three days",neutral
